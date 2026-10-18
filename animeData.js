@@ -18,7 +18,7 @@ const TEST_VIDEO =
 export const animeList = [
   {
     id: 'demo-series',
-    title: 'Demo Cartoon',
+    title: 'title: 'Crayon Shin-chan'',
     poster: art('Poster', '#134e3a'),
     description: 'A sample series that shows how the site works. Replace this text with your own description.',
     genres: ['Comedy', 'Adventure'],
@@ -31,7 +31,7 @@ export const animeList = [
           {
             id: 's1e1', season: 1, episode: 1, title: 'The Beginning',
             thumbnail: art('S01E01', '#1f3a5f'),
-            driveUrl: '',                  // <-- paste your Google Drive share link here
+            driveUrl: 'https://drive.google.com/file/d/1Q0782PG9a2pz_UaXtOK-nWPqust3NCYY/view?usp=drivesdk',                  // <-- paste your Google Drive share link here
             altVideoUrl: TEST_VIDEO,       // <-- OR a direct, authorized .mp4/.webm URL
             subtitleUrl: '',               // optional .vtt file URL
             description: 'Sample episode that plays a public test video.'
