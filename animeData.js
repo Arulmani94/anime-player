@@ -18,7 +18,7 @@ const TEST_VIDEO =
 export const animeList = [
   {
     id: 'demo-series',
-    title: 'title: 'Crayon Shin-chan'',
+    title: 'title: 'Shinchan'',
     poster: art('Poster', '#134e3a'),
     description: 'A sample series that shows how the site works. Replace this text with your own description.',
     genres: ['Comedy', 'Adventure'],
