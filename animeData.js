@@ -39,7 +39,7 @@ export const animeList = [
           {
             id: 's1e2', season: 1, episode: 2, title: 'A Drive Link Example',
             thumbnail: art('S01E02', '#5f3a1f'),
-            driveUrl: 'https://drive.google.com/file/d/REPLACE_WITH_REAL_FILE_ID_1234/view?usp=sharing',
+            driveUrl: 'https://drive.google.com/file/d/1Q0782PG9a2pz_UaXtOK-nWPqust3NCYY/view?usp=drivesdk',
             altVideoUrl: '',
             subtitleUrl: '',
             description: 'Uses a placeholder Drive link, so you will most likely see the error screen.'
